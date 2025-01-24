@@ -2,7 +2,7 @@
 
 <h2>IT Projects</h2>
 
-- <b> Active Directory Domain & User Setup on VirtualBox </b>
+<b> Active Directory Domain & User Setup on VirtualBox </b>
   - [Configuring the Domain and User Accounts](https://github.com/thulachum/ad-config)
 
 <!--
