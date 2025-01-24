@@ -2,8 +2,8 @@
 
 <h2>IT Projects</h2>
 
-<b> Active Directory Domain & User Setup on VirtualBox </b>()
-  -[Configuring the Domain and User Accounts](https://github.com/thulachum/ad-config)
+<b> Active Directory Domain & User Setup on VirtualBox </b>
+  - [Configuring the Domain and User Accounts](https://github.com/thulachum/ad-config)
 
 <!--
 **thulachum/thulachum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
