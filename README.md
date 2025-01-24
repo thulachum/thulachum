@@ -1,5 +1,5 @@
-## Hello! I'm Thulasi, an IT Support Specialist 👋
-#### IT Projects
+<h1>Hello! I'm Thulasi, an IT Support Specialist 👋</h1>
+<h2>IT Projects</h2>
 <b> Active Directory Domain & User Setup on VirtualBox </b>
 
 <!--
